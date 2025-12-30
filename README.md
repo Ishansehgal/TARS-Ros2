@@ -4,9 +4,8 @@
 
 ## Demo Videos
 
-https://github.com/user-attachments/assets/one.mp4
-
-https://github.com/user-attachments/assets/two.mp4
+[![TARS Walking Demo 1](https://img.youtube.com/vi/_qrR2Gw8YWM/0.jpg)](https://youtube.com/shorts/_qrR2Gw8YWM)
+[![TARS Walking Demo 2](https://img.youtube.com/vi/ahCwITzlgBA/0.jpg)](https://youtube.com/shorts/ahCwITzlgBA)
 
 ---
 
