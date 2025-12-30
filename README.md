@@ -1,5 +1,7 @@
 # TARS Robot - ROS2 Humble + MicroROS (ESP32)
 
+I built this TARS robot using an ESP32. Currently it supports the main body only (no arms). It uses MicroROS for real-time communication and I have also integrated it with Gazebo simulation to create a digital twin.
+
 > **Work in Progress** - This branch is under active development.
 
 ## Demo Videos
